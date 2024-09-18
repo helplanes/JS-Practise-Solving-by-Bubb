@@ -1,6 +1,6 @@
 # Javascript Brushup and Practise 
   - Following Code with Bubb
-  ## Uploaded complete excercises [solved without external help]
+  -  Uploaded complete excercises [solved without external help]
 
 ## Problems Completed and their Uses
   - Problem1.js:- cleared concepts of or (||), equal (===), as well as declaring function in short.
