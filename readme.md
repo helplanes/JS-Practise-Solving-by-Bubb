@@ -6,3 +6,5 @@
   - Problem1.js:- cleared concepts of or (||), equal (===), as well as declaring function in short.
   - Problem2.js:- cleared comcept of slice. Basically on how to get the text from a string after a certain point, word or character.
   -Problem3.js:- cleared concepts on split, map and join as well as charCodeAt property.
+  - Problem4.js:- clears the concept of the in-built date object.
+  - Problem5.js:- usage of operators.
